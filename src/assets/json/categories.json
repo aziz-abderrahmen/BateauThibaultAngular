@@ -1,0 +1,22 @@
+[
+    {
+        "id" : 0,
+        "name" : "Poissons",
+        "image_icon" : "../assets/img/poulpe.png"
+    },
+    {
+        "id" : 1,
+        "name" : "Coquillages",
+        "image_icon" : "../assets/img/poulpe.png"
+    },
+    {
+        "id" : 2,
+        "name" : "Crustacés",
+        "image_icon" : "../assets/img/poulpe.png"
+    },
+    {
+        "id" : 3,
+        "name" : "Promotions",
+        "image_icon" : "../assets/img/poulpe.png"
+    }
+]

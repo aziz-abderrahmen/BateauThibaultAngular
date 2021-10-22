@@ -1,0 +1,117 @@
+[
+    {
+    "id" : 0,
+    "name" : "Bistrot des Gascons",
+    "image" : "../assets/img/desGascons.png",
+    "image_icon" : "../assets/img/desGascons_icon.png",
+    "subtitle" : "XXXYYYZZZ",
+    "description" : ["Qu'il est chaud le soleil",
+    "Quand nous sommes en vacances",
+    "Y a d' la joie, des hirondelles",
+    "C'est le sud de la France",
+    "Papa bricole au garage",
+    "Maman lit dans la chaise longue",
+    "Dans ce joli paysage",
+    "Moi, je me balade en tongs",
+    "",
+    "Que de bonheur!",
+    "Que de bonheur!"]
+    },
+
+    {
+    "id" : 1,
+    "name" : "Les fous de l'île",
+    "image" : "../assets/img/fousDeLIle.png",
+    "image_icon" : "../assets/img/fousDeLIle_icon.png",
+    "subtitle" : "XXXYYYZZZ",
+    "description" : ["Qu'il est chaud le soleil",
+    "Quand nous sommes en vacances",
+    "Y a d' la joie, des hirondelles",
+    "C'est le sud de la France",
+    "Papa bricole au garage",
+    "Maman lit dans la chaise longue",
+    "Dans ce joli paysage",
+    "Moi, je me balade en tongs",
+    "",
+    "Que de bonheur!",
+    "Que de bonheur!"]
+    },
+
+    {
+    "id" : 2,
+    "name" : "Bistrot Landais",
+    "image" : "../assets/img/bistrotLandais.png",
+    "image_icon" : "../assets/img/bistrotLandais_icon.png",
+    "subtitle" : "XXXYYYZZZ",
+    "description" : ["Qu'il est chaud le soleil",
+    "Quand nous sommes en vacances",
+    "Y a d' la joie, des hirondelles",
+    "C'est le sud de la France",
+    "Papa bricole au garage",
+    "Maman lit dans la chaise longue",
+    "Dans ce joli paysage",
+    "Moi, je me balade en tongs",
+    "",
+    "Que de bonheur!",
+    "Que de bonheur!"]
+    },
+
+    {
+    "id" : 2,    
+    "name" : "Villa 9-Trois",
+    "image" : "../assets/img/villa9Trois.png",
+    "image_icon" : "../assets/img/villa9Trois_icon.png",
+    "subtitle" : "XXXYYYZZZ",
+    "description" : ["Qu'il est chaud le soleil",
+    "Quand nous sommes en vacances",
+    "Y a d' la joie, des hirondelles",
+    "C'est le sud de la France",
+    "Papa bricole au garage",
+    "Maman lit dans la chaise longue",
+    "Dans ce joli paysage",
+    "Moi, je me balade en tongs",
+    "",
+    "Que de bonheur!",
+    "Que de bonheur!"]
+    },
+
+    {
+    "id" : 4,
+    "name" : "Bistrot du Sommelier",
+    "image" : "../assets/img/duSommelier.png",
+    "image_icon" : "../assets/img/duSommelier_icon.png",
+    "subtitle" : "XXXYYYZZZ",
+    "description" : ["Qu'il est chaud le soleil",
+    "Quand nous sommes en vacances",
+    "Y a d' la joie, des hirondelles",
+    "C'est le sud de la France",
+    "Papa bricole au garage",
+    "Maman lit dans la chaise longue",
+    "Dans ce joli paysage",
+    "Moi, je me balade en tongs",
+    "",
+    "Que de bonheur!",
+    "Que de bonheur!"]
+    },
+                    
+    {
+    "id" : 5,
+    "name" : "Devenez Partenaire!",
+    "image" : "../assets/img/TIG.png",
+    "image_icon" : "../assets/img/poulpe.png",
+    "subtitle" : "XXXYYYZZZ",
+    "description" : ["Qu'il est chaud le soleil",
+    "Quand nous sommes en vacances",
+    "Y a d' la joie, des hirondelles",
+    "C'est le sud de la France",
+    "Papa bricole au garage",
+    "Maman lit dans la chaise longue",
+    "Dans ce joli paysage",
+    "Moi, je me balade en tongs",
+    "",
+    "Que de bonheur!",
+    "Que de bonheur!"]
+    }
+
+]
+

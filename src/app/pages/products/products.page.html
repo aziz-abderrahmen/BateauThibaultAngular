@@ -1,0 +1,28 @@
+<ion-content  class="bgImage">
+  <div>
+    <ion-row class="header">
+      <ion-img src="../assets/img/homeLogo.png" class="headerLogo" (click)="toNavigateHome()"></ion-img>
+      <ion-img src="../assets/img/navbarbg.png" class="headerImg"></ion-img>
+      <ion-img src="../assets/img/cartLogo.png" class="headerLogo" (click)="toNavigateCart()"></ion-img>
+    </ion-row>
+  </div>  
+  <div class="container">
+  <div class="title_product">
+            <ion-text>Choisissez vos produits</ion-text>
+        </div>
+  <ion-row id="button">
+    <ion-item-sliding *ngFor="let item of category">
+      <ion-button class="accueilButton" (click)="onProductClick(item)">
+          <ion-img src="{{item.image_icon}}" class="imgButton"></ion-img>
+          <ion-text class="txtButton">{{item.name}}</ion-text>
+          <ion-img src="{{item.image_icon}}" class="imgButton"></ion-img>
+      </ion-button>
+    </ion-item-sliding>
+  </ion-row>
+  </div>
+</ion-content>
+<div class="footer">
+        <div class="footer_text">
+          <ion-text>Powered by BTK Inc</ion-text>
+        </div>
+  </div>

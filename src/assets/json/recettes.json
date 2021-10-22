@@ -1,0 +1,69 @@
+[
+    {
+        "id" : 0,
+        "name" : "Bar rôti au laurier frais",
+        "name_short" : "Bar",
+        "image" : "../assets/img/barRecette.png",
+        "image_icon" : "../assets/img/barRecette_icon.png",
+        "description" : ["Sur une plaque ou un plat allant au four, disposer quelques feuilles de laurier frais, verser un filet d'huile d'olive et du gros sel. Disposer le bar, puis l'arroser d'un filet d'huile d'olive et mettre un peu de gros sel sur la peau. ",
+            "Cuire au four pendant 12 min à 240° C."]
+    },
+    {
+        "id" : 1,
+        "name" : "Homard en chaud-froid",
+        "name_short" : "Homard",
+        "image" : "../assets/img/homardRecette.png",
+        "image_icon" : "../assets/img/homardRecette_icon.png",
+        "description" : ["Faites cuire les homards dans de l'eau bouillante avec du thym, du laurier, du sel et du poivre de Cayenne. Laissez cuire 20 minutes. Égouttez-les et laissez-les refroidir.",
+            "Découpez les coffres des homards dans le sens de la longueur.",
+            "Mélangez la mayonnaise avec le cognac, le corail et la ciboulette ciselée."]
+        },
+    {
+        "id" : 2,
+        "name" : "Noix de Saint-Jacques flambé au cognac",
+        "name_short" : "St Jacques",
+        "image" : "../assets/img/saintJacques.png",
+        "image_icon" : "../assets/img/saintJacques_icon.png",
+        "description" : ["Faire fondre du beurre avec des échalotes puis ajouter les noix de Saint-Jacques. Les faire revenir en laissant le milieu translucide puis les retirer du feu. ",
+            "Ajouter l'ail et le persil dans la poêle et laisser cuire quelques secondes. Bien faire chauffer la poêle, puis flamber au Cognac. Une fois la flamme éteinte, ajouter les noix de Saint-Jacques (il ne faut pas les flamber car elles perdraient leur saveur).",
+            "Déguster chaud nature ou accompagné d'une fondue de poireaux."]
+        },
+    {
+        "id" : 3,
+        "name" : "Tourteau linguine",
+        "name_short" : "Tourteau",
+        "image" : "../assets/img/poulpe.png",
+        "image_icon" : "../assets/img/tourteau.png",
+        "subtitle" : "XXXYYYZZZ",
+        "description" : ["Qu'il est chaud le soleil",
+        "Quand nous sommes en vacances",
+        "Y a d' la joie, des hirondelles",
+        "C'est le sud de la France",
+        "Papa bricole au garage",
+        "Maman lit dans la chaise longue",
+        "Dans ce joli paysage",
+        "Moi, je me balade en tongs",
+        "Que de bonheur!",
+        "Que de bonheur!"]
+        },
+    {
+        "id" : 4,
+        "name" : "Recette XYZ",
+        "name_short" : "Recette",
+        "image" : "../assets/img/poulpe.png",
+        "image_icon" : "../assets/img/poulpe.png",
+        "subtitle" : "XXXYYYZZZ",
+        "description" : ["Qu'il est chaud le soleil",
+        "Quand nous sommes en vacances",
+        "Y a d' la joie, des hirondelles",
+        "C'est le sud de la France",
+        "Papa bricole au garage",
+        "Maman lit dans la chaise longue",
+        "Dans ce joli paysage",
+        "Moi, je me balade en tongs",
+        "",
+        "Que de bonheur!",
+        "Que de bonheur!"]
+        }
+        
+]

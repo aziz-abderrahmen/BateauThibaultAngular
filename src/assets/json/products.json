@@ -1,0 +1,17 @@
+[
+    {"discount":5,"unit":"kg","name":"Moules de pêche","sale":true,"price":7,"owner":"tig","availability":true,"category":1,"id":6,"comments":""},
+    {"sale":false,"availability":true,"category":0,"name":"Filet Bar de ligne","price":7,"unit":"2 filets","owner":"tig","id":1,"comments":"environ 300g","discount":0},
+    {"availability":false,"sale":false,"comments":"Hors saison, pêche aux casiers","name":"Araignées","unit":"kg","owner":"tig","price":7,"category":2,"discount":0,"id":9},
+    {"name":"Bouquets cuits","comments":"Hors saison, pêche à l'épuisette","sale":false,"price":8,"availability":false,"category":1,"discount":0,"unit":"100g","owner":"tig","id":10},
+    {"owner":"tig","availability":true,"category":1,"sale":false,"unit":"Dz","discount":0,"name":"Huitres N°2 St Vaast","id":7,"price":9.5,"comments":""},
+    {"id":2,"price":10,"discount":0,"availability":true,"sale":false,"category":0,"owner":"tig","comments":"Environ 550-700g la pièce","name":"Bar de ligne portion","unit":"pièce"},
+    {"comments":"Pêche à la corde","id":12,"availability":true,"category":0,"unit":"kg","name":"Aile de raie","price":10,"owner":"tig","discount":0,"sale":false},
+    {"name":"Huîtres N°2 OR St Vaast","unit":"Dz","comments":"Médaille d'or Salon Agriculture","sale":false,"owner":"tig","id":13,"price":12,"discount":0,"availability":true,"category":1},
+    {"availability":true,"unit":"kg","sale":false,"discount":0,"owner":"tig","comments":"Environ 550-700g la portion","price":12,"id":4,"category":0,"name":"Lieu jaune de ligne"},
+    {"name":"Filet Julienne","unit":"kg","availability":false,"sale":false,"category":0,"owner":"tig","comments":"Pêche à la corde","id":5,"discount":0,"price":19},
+    {"comments":"","name":"Huîtres N°2 St Vaast","price":19,"sale":false,"id":16,"discount":0,"category":1,"owner":"tig","availability":true,"unit":"2 Dz"},
+    {"id":14,"sale":false,"category":1,"discount":0,"availability":true,"unit":"2 Dz","owner":"tig","name":"Huîtres N°2 OR St Vaast","comments":"Médaille d'or salon agriculture","price":24},
+    {"owner":"tig","comments":"Plus de 1.5kg le poisson","discount":0,"price":30,"name":"Bar de ligne","availability":true,"sale":false,"unit":"kg","id":3,"category":0},
+    {"owner":"tig","sale":false,"name":"Huitres N°2 St Vaast","comments":"","id":8,"price":38,"category":1,"availability":true,"unit":"4 Dz","discount":0},
+    {"comments":"Médaille d'or salon agriculture","owner":"tig","discount":0,"unit":"4 Dz","category":1,"sale":false,"id":15,"price":48,"availability":true,"name":"Huîtres N°2 OR St Vaast"}
+]
